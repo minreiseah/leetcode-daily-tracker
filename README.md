@@ -1,5 +1,7 @@
 # Leetcode tracker
 
+Uploads to our daily tracker.
+
 Uses python 3.10.4 but any other release should be fine.
 
 1. Set up the environment
